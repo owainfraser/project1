@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project 2 - Secure Web Application</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Secure Web Application</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="project1.html">Project 1</a>
+    </nav>
+  </header>
+
+  <main>
+    <img src="images/webapp.jpg" alt="Screenshot of a secure login page">
+    <section>
+      <h2>Description</h2>
+      <p>Developed a web app with secure authentication and input validation. Focused on implementing security best practices such as hashed passwords, SQL injection prevention, and HTTPS configuration.</p>
+    </section>
+    <section>
+      <h2>Skills Learned</h2>
+      <ul>
+        <li>Web development with HTML, CSS, and Python</li>
+        <li>Secure coding practices</li>
+        <li>User authentication and session management</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Owain Fraser</p>
+  </footer>
+</body>
+</html>
